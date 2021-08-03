@@ -87,6 +87,8 @@ Z_array=Z.values
 print("all:")
 for i in Z_array:
     print("Predicted test: ",regr.predict([i]))
+    
+    delete this
 """
 
 
